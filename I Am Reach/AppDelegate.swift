@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  I Am Reach
-// d
+// 
 //  Created by Krzysztof Wisniewski on 28/11/2020.
 //
 

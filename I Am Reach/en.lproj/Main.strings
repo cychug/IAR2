@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L85-h7-eNl"; */
+"L85-h7-eNl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aGp-FT-8WI"; */
+"aGp-FT-8WI.text" = "Label";
+
+/* Class = "UITextField"; text = "Text"; ObjectID = "am1-cn-yy8"; */
+"am1-cn-yy8.text" = "Text";
+
+/* Class = "UISegmentedControl"; j2c-dZ-7JC.segmentTitles[0] = "First"; ObjectID = "j2c-dZ-7JC"; */
+"j2c-dZ-7JC.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; j2c-dZ-7JC.segmentTitles[1] = "Second"; ObjectID = "j2c-dZ-7JC"; */
+"j2c-dZ-7JC.segmentTitles[1]" = "Second";

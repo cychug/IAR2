@@ -49,6 +49,7 @@
 		E35527722573061000A21DF9 /* I Am ReachUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I Am ReachUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E35527762573061000A21DF9 /* I_Am_ReachUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_Am_ReachUITests.swift; sourceTree = "<group>"; };
 		E35527782573061000A21DF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E355278B2573164B00A21DF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,6 +301,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				E355275B2573060E00A21DF9 /* Base */,
+				E355278B2573164B00A21DF9 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -437,6 +439,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QC649K2244;
 				INFOPLIST_FILE = "I Am Reach/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -456,6 +459,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QC649K2244;
 				INFOPLIST_FILE = "I Am Reach/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
